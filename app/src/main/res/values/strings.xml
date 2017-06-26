@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BaseCode</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="motTeste">Mot testé</string>
+    <string name="consigne">Est-ce que ce mot est bien écrit ?</string>
 </resources>
